@@ -1,2 +1,2 @@
 # Treehouse
-Projects and Courses from my Treehouse Coursework
+Repo to track my Projects and Courses from my Treehouse Coursework
