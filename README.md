@@ -1,2 +1,2 @@
 # Treehouse
-Projects from my Treehouse Coursework
+Projects and Courses from my Treehouse Coursework
